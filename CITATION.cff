@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Md.Hasibur Rahman "
-
+- family-names: "Md.Hasibur "
+  given-names:  Rahman
 title: "
 Video--A-dynamic-approach-for-12dof-quadruped-robot-Designs-and-Computational-simulations"
 doi: 10.5281/zenodo.7045763
