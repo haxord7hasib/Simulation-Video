@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Md.Hasibur "
   given-names: "Rahman"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+
 title: "
 Video--A-dynamic-approach-for-12dof-quadruped-robot-Designs-and-Computational-simulations"
 version: 2.0.4
