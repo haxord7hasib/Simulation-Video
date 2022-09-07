@@ -1,10 +1,10 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Md.Hasibur "
-  given-names:  Rahman
-title: "
-Video--A-dynamic-approach-for-12dof-quadruped-robot-Designs-and-Computational-simulations"
-doi: 10.5281/zenodo.7045763
-date-released: 2022-08-27
-url: "https://github.com/haxord7hasib/Video--A-dynamic-approach-for-12dof-quadruped-robot-Designs-and-Computational-simulations"
+@software{haxord7_hasib_2022_7046047,
+  author       = {haxord7-Hasib},
+  title        = {Simulation Video},
+  month        = sep,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {robot},
+  doi          = {10.5281/zenodo.7046047},
+  url          = {https://doi.org/10.5281/zenodo.7046047}
+}
